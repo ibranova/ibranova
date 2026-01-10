@@ -13,11 +13,12 @@
 
 I’m a Data Analyst driven by curiosity, resilience, and a strong commitment to continuous learning. I grew up in Guinea, West Africa, where access to technology was very limited for me growing up, but I was so facined about Inovations. After moving to the U.S., I taught myself English, adapted to a new culture quickly, and intentionally built the skills and mindset needed to work in tech.
 
-I currently completing an intensive Data Analytics training program at [The Marcy Lab School](https://www.marcylabschool.org/), where I developed hands-on experience with data analysis, problem-solving, and critical thinking using tools like Python and SQL. What defines me most is my discipline, growth mindset, curiosity and desire to use data to find solutions that have real-world impact.
+I am currently completing an intensive Data Analytics training program at [The Marcy Lab School](https://www.marcylabschool.org/), where I developed hands-on experience with data analysis, problem-solving, and critical thinking using tools like Python and SQL. What defines me most is my discipline, growth mindset, curiosity, and desire to use data to find solutions that have real-world impact.
 
 This GitHub is where I document my learning journey, share projects, and continue growing one step at a time.
 ## About Me
 I'm a **Data Analyst** based in **New York City** with a passion for transforming complex datasets into actionable business insights. Currently completing **1,800+ hours** of immersive training in data analysis, statistics, machine learning, and visualization at The Marcy Lab School.
+
 🏆 **2nd Place Winner** — MTA Datathon 2025 (out of 180+ teams)
 
 
@@ -190,8 +191,6 @@ I'm always open to discussing data projects, collaboration opportunities, or jus
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibranova&color=blueviolet&style=for-the-badge)
-
-*"Data is the new oil, but insights are the refined fuel that drives decisions."*
 
 </div>
 
