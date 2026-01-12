@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Ibrahima Diallo 👋
+# Hey there, I'm Ibrahima Diallo
 <img width="354" height="331" alt="Screenshot 2026-01-09 at 11 11 04 PM" src="https://github.com/user-attachments/assets/cd972671-ad43-4abe-b1e7-72c80fc5edac" />
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ibrahima-diallo-58092b270/)
@@ -65,10 +65,10 @@ src="https://skillicons.dev/icons?i=pycharm" height="60" alt="plotly logo" /> <i
 Built an interactive Power BI dashboard to identify churn drivers for a telecom company.
 
 **Key Insights:**
-- 📉 27% overall churn rate identified
-- 🏆 45% of churn attributed to competition
-- 🚨 California flagged with 60%+ churn rate
-- 💡 72% of customers without plans churned
+- 27% overall churn rate identified
+- 45% of churn attributed to competition
+- California flagged with 60%+ churn rate
+- 72% of customers without plans churned
 
 `Power BI` `DAX` `Power Query`
 
@@ -79,9 +79,9 @@ Built an interactive Power BI dashboard to identify churn drivers for a telecom 
 Analyzed guest satisfaction and revenue patterns using star-schema database design and RFM analysis.
 
 **Key Insights:**
-- 📈 CA/NY markets show 3x higher CLV
-- 🔁 Repeat guests spend 40% more
-- 📅 Recommended 25% Monday staffing increase
+- CA/NY markets show 3x higher CLV
+- Repeat guests spend 40% more
+- Recommended 25% Monday staffing increase
 
 `SQLite` `Python` `Matplotlib` `SQL CTEs`
 
@@ -99,9 +99,9 @@ Analyzed guest satisfaction and revenue patterns using star-schema database desi
 Built a classification model to predict Killed or Seriously Injured (KSI) outcomes from 342K+ motor vehicle collisions.
 
 **Results:**
-- 🎯 58% Recall (vs. 0% baseline)
-- 📊 0.60 ROC-AUC score
-- 🌐 Deployed Streamlit web app for analysts
+- 58% Recall (vs. 0% baseline)
+- 0.60 ROC-AUC score
+- Deployed Streamlit web app for analysts
 
 `Python` `Scikit-learn` `XGBoost` `Streamlit`
 
@@ -112,9 +112,9 @@ Built a classification model to predict Killed or Seriously Injured (KSI) outcom
 Applied statistical testing to uncover ridership patterns for product, operations, and marketing teams.
 
 **Statistical Tests:**
-- 📊 Welch's t-test: p=0.00004 (working vs. non-working days)
-- 📈 ANOVA F≈50, p<0.001 (seasonal differences)
-- 🧪 Simulated A/B test design
+- Welch's t-test: p=0.00004 (working vs. non-working days)
+- ANOVA F≈50, p<0.001 (seasonal differences)
+- Simulated A/B test design
 
 `Python` `Pandas` `Statistical Testing` `Matplotlib`
 
@@ -133,9 +133,9 @@ Analyzed 3M+ bus violation records to uncover spatial and socio-economic pattern
 
 **Impact:**
 - 🥈 2nd place out of 180+ teams
-- 📍 Spatial analysis with MODZCTA boundaries
-- 📊 ANOVA revealed poverty-violation correlation
-- 🔄 37.6% repeat offender rate identified
+- Spatial analysis with MODZCTA boundaries
+- ANOVA revealed poverty-violation correlation
+- 37.6% repeat offender rate identified
 
 `Python` `SQL` `Tableau` `Geospatial Analysis`
 
@@ -146,10 +146,10 @@ Analyzed 3M+ bus violation records to uncover spatial and socio-economic pattern
 Analyzed Wi-Fi kiosk usage across 4,000+ kiosks to measure digital equity post-5G rollout.
 
 **Key Metrics:**
-- 📶 100% network uptime post-5G
-- 🔄 78% Week-1 retention rate
-- 🗺️ Equity-focused outer borough expansion
-- 📊 RFM segmentation for ad targeting
+- 100% network uptime post-5G
+- 78% Week-1 retention rate
+- Equity-focused outer borough expansion
+- RFM segmentation for ad targeting
 
 `Python` `Plotly` `Folium` `Cohort Analysis`
 
