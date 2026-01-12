@@ -174,7 +174,7 @@ Analyzed Wi-Fi kiosk usage across 4,000+ kiosks to measure digital equity post-5
 - 🔬 Expanding my machine learning toolkit with deep learning fundamentals
 - 📊 Building more interactive dashboards with Power BI and Tableau
 - 🌐 Contributing to open-source data projects
-- 📚 Preparing for senior data analyst roles
+- 📚 Preparing for junior data analyst roles
 
 ---
 
