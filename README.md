@@ -43,9 +43,7 @@ I'm a **Data Analyst** based in **New York City** with a passion for transformin
 
 ## Productivity/Project Management & Tools
 <img src="https://simpleskill.icons.workers.dev/svg?i=jira" height="60" /> <img src="https://skillicons.dev/icons?i=notion" height="60" alt="plotly logo" /> <img src="https://skillicons.dev/icons?i=figma" height="60" alt="plotly logo" /> <img src="https://skillicons.dev/icons?i=flask" height="60" alt="plotly logo" /> <img 
-src="https://skillicons.dev/icons?i=pycharm" height="60" alt="plotly logo" /> <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="seaborn logo" /> <img src="https://skillicons.dev/icons?i=ai" height="60" alt="plotly logo" /> <img src="https://cdn.simpleicons.org/slack" height="50" alt="Slack logo colored" />
-
-
+src="https://skillicons.dev/icons?i=pycharm" height="60" alt="plotly logo" /> <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="seaborn logo" /> <img src="https://skillicons.dev/icons?i=ai" height="60" alt="plotly logo" />
 
 
 
@@ -159,22 +157,17 @@ Analyzed Wi-Fi kiosk usage across 4,000+ kiosks to measure digital equity post-5
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibranova&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 🔬 Expanding my machine learning toolkit with deep learning fundamentals
 - 📊 Building more interactive dashboards with Power BI and Tableau
 - 🌐 Contributing to open-source data projects
 - 📚 Preparing for junior data analyst roles
+- 🎓 Preparing to get certified in:
+    - AWS Cloud Practitioner, expected - March 2026
+    - PL-300: Microsoft Power BI, expected - April 2026
+    - Databricks Data Engineer Associate, expected - May 2026
+
 
 ---
 
